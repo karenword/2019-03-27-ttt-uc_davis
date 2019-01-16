@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "dc"    # what kind of Carpentry (must be either "dc" or "swc")
 venue: "UC Davis"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Data Science Initiative, Shields Library, 100 NW Quad, Davis, CA 95616"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Data Science Initiative, 100 NW Quad, Davis, CA 95616"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "38.542591,-121.750221"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
